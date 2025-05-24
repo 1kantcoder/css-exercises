@@ -1,0 +1,13 @@
+.inverted,
+.fancy {
+    font-size: 28px;
+    font-family: Helvetica, T"imes New Roman", sans-serif;
+}
+
+.fancy{
+    background-color: yellow;
+}
+.inverted{
+    background-color: black;
+    color:white
+}
